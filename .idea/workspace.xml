@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba6bccbf-d3d9-4445-9e85-95a8bba63c23" name="Changes" comment="" />
+    <list default="true" id="ba6bccbf-d3d9-4445-9e85-95a8bba63c23" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/src/main/java/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/src/main/java/Recursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/target/classes/Recursion.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "stalord63"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/stalord63/DSA_.git",
+    "accountId": "5f4d65b4-10f4-4cf3-94d2-872a09de4738"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -31,6 +51,7 @@
     "Application.Unnamed.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/aditya/Desktop/A2Z_Striver",
     "onboarding.tips.debug.path": "/home/aditya/Desktop/A2Z_Striver/Recursion/src/main/java/org/example/Main.java",
@@ -78,7 +99,20 @@
       <option name="presentableId" value="Default" />
       <updated>1758565753480</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1758566725483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758566725483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

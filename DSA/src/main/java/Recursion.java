@@ -1,16 +1,16 @@
- public class Recursion{
+ class Recursion {
 
-    public static void print(int i,int n){
-        if(i>n)
-            return;
-        System.out.println("ADITYA");
-        print(i+1,n);
-    }
+    void print(int i, int n) {
+         if (i > n)
+             return;
+         System.out.println("ADITYA");
+         print(i + 1, n);
+     }
+ }
 
+ public void main(String[] args){
 
-    public static void main(String[] args){
-        print(1,6)
-
-    }
+    Recursion obj= new Recursion();
+    obj.print(1,7);
 
 }
